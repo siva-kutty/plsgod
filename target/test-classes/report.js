@@ -45,21 +45,21 @@ formatter.match({
   "location": "snippets.i_want_to_write_a_step_with_precondition()"
 });
 formatter.result({
-  "duration": 97700139,
+  "duration": 89438523,
   "status": "passed"
 });
 formatter.match({
   "location": "snippets.i_complete_action()"
 });
 formatter.result({
-  "duration": 19059,
+  "duration": 18571,
   "status": "passed"
 });
 formatter.match({
   "location": "snippets.i_validate_the_outcomes()"
 });
 formatter.result({
-  "duration": 14173,
+  "duration": 13684,
   "status": "passed"
 });
 });
